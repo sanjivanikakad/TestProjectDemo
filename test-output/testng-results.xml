@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11393" started-at="2017-01-25T09:06:00Z" finished-at="2017-01-25T09:06:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11393" started-at="2017-01-25T09:06:00Z" finished-at="2017-01-25T09:06:12Z">
+      <class name="testscript.PomTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testscript.PomTest@6cc4c815]" name="setup" is-config="true" duration-ms="6614" started-at="2017-01-25T14:35:54Z" finished-at="2017-01-25T14:36:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testloginpage()[pri:1, instance:testscript.PomTest@6cc4c815]" name="testloginpage" duration-ms="1625" started-at="2017-01-25T14:36:00Z" finished-at="2017-01-25T14:36:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloginpage -->
+        <test-method status="PASS" signature="testHomePage()[pri:2, instance:testscript.PomTest@6cc4c815]" name="testHomePage" duration-ms="1136" started-at="2017-01-25T14:36:02Z" finished-at="2017-01-25T14:36:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+        <test-method status="PASS" signature="testForm()[pri:3, instance:testscript.PomTest@6cc4c815]" name="testForm" duration-ms="8613" started-at="2017-01-25T14:36:03Z" finished-at="2017-01-25T14:36:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testscript.PomTest@6cc4c815]" name="tearDown" is-config="true" duration-ms="537" started-at="2017-01-25T14:36:12Z" finished-at="2017-01-25T14:36:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testscript.PomTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
