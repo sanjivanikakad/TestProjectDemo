@@ -23,6 +23,7 @@ public HomePOM(WebDriver driver)
     }
     public void clickbutton()
     {
+    	System.out.println("test");
     	driver.findElement(homepagemenuName).click();
     }
 

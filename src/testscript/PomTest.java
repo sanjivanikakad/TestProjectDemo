@@ -32,7 +32,7 @@ public class PomTest {
 	
 	@Test(priority=1)
 	public void testloginpage(){
-
+System.out.println("");
 		objlogin = new LoginPOM(driver);
 		String loginPageTitle = objlogin.getLoginTitle();
 		Assert.assertTrue(loginPageTitle.toLowerCase().contains("guru99 bank"));
